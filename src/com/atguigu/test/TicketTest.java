@@ -1,8 +1,5 @@
 package com.atguigu.test;
 
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
 import org.apache.log4j.Logger;
 
 public class TicketTest {
